@@ -1,0 +1,13 @@
+{
+    "extends": "next/core-web-vitals",
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["react-refresh", "@typescript-eslint"],
+    "rules": {
+        "react-refresh/only-export-components": "warn",
+        "react/prop-types": 0,
+        "indent": ["error", 4],
+        "linebreak-style": ["error", "windows"],
+        "quotes": ["error", "double"],
+        "semi": ["error", "always"]
+    }
+}

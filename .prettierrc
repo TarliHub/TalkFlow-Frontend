@@ -1,0 +1,8 @@
+{
+  "arrowParens": "avoid",
+  "tabWidth": 4,
+  "trailingComma": "none",
+  "proseWrap": "always",
+  "printWidth": 80,
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
